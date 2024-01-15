@@ -42,6 +42,7 @@ Ce document résume quelques questions d'entretien pour un data engineer junior 
 - Data warehouse vs datalake.
 - Si ma requête SQL met beaucoup de temps à tourner, quelles sont les pistes à explorer pour l'optimiser?
 - Batch vs stream
-- Type de modélisation d'une base de données (table des faits, table de dimensions, modélisation en étoile...)
+- Type de modélisation d'une base d'un entrepôt de données/data warehouse (table des faits, table de dimensions, modélisation en étoile...)
+- Développement de base de données (Modèles conceptuel, logique et physique)
 - La normalisation de la DB vs la dénormalisation
 
